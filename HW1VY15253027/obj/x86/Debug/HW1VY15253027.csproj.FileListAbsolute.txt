@@ -1,0 +1,10 @@
+/Users/yigitkader/Projects/HW1VY15253027/HW1VY15253027/bin/Debug/HW1VY15253027.exe
+/Users/yigitkader/Projects/HW1VY15253027/HW1VY15253027/bin/Debug/HW1VY15253027.pdb
+/Users/yigitkader/Projects/HW1VY15253027/HW1VY15253027/obj/x86/Debug/HW1VY15253027.csproj.CoreCompileInputs.cache
+/Users/yigitkader/Projects/HW1VY15253027/HW1VY15253027/obj/x86/Debug/HW1VY15253027.exe
+/Users/yigitkader/Projects/HW1VY15253027/HW1VY15253027/obj/x86/Debug/HW1VY15253027.pdb
+/Users/yigitkader/Desktop/HW1VY15253027/HW1VY15253027/bin/Debug/HW1VY15253027.exe
+/Users/yigitkader/Desktop/HW1VY15253027/HW1VY15253027/bin/Debug/HW1VY15253027.pdb
+/Users/yigitkader/Desktop/HW1VY15253027/HW1VY15253027/obj/x86/Debug/HW1VY15253027.csproj.CoreCompileInputs.cache
+/Users/yigitkader/Desktop/HW1VY15253027/HW1VY15253027/obj/x86/Debug/HW1VY15253027.exe
+/Users/yigitkader/Desktop/HW1VY15253027/HW1VY15253027/obj/x86/Debug/HW1VY15253027.pdb
